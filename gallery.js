@@ -31,7 +31,7 @@ function fetchJSON () {
 function swapPhoto () {
   // Access mImages[mCurrentIndex] to update the image source and details
   // Update the #photo element's src attribute with the current image's path
-  // Update the .location, .description, and .date elements with the current image's details
+  // Update the .location, .description, and .photographer elements with the current image's details
 }
 
 // Advances to the next photo, loops to the first photo if the end of array is reached

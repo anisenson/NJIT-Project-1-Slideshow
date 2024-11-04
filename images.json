@@ -1,82 +1,82 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgPath": "img/places/new-york-city.jpg",
+            "imgLocation": "New York City, USA",
+            "description": "Famous for the Statue of Liberty, Central Park, Times Square, and the global financial center on Wall Street.",
+            "photographer": "Lukas Kloeppel"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "img/places/paris.jpg",
+            "imgLocation": "Paris, France",
+            "description": " Known for the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, and as a global center of art, fashion, and cuisine.",
+            "photographer": "Robert Stokoe"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "img/places/london.jpg",
+            "imgLocation": "London, UK",
+            "description": "Home to iconic sites like the Big Ben, Buckingham Palace, Tower of London, and the historic British Museum.",
+            "photographer": "Pixabay"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "img/places/#",
+            "imgLocation": "Tokyo, Japan",
+            "description": "Famous for its blend of traditional and futuristic, including Tokyo Tower, Shibuya Crossing, and beautiful cherry blossoms in the spring.",
+            "photographer": "name"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "imgPath": "img/places/#",
+            "imgLocation": "Rome, Italy",
+            "description": " Known for the Colosseum, the Vatican, Trevi Fountain, and ancient ruins, Rome is a historical and cultural powerhouse.",
+            "photographer": "name"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "imgPath": "img/places/#",
+            "imgLocation": "Dubai, UAE",
+            "description": " Recognized for its modern architecture, luxury shopping, and attractions like the Burj Khalifa and the Palm Jumeirah.",
+            "photographer": "name"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "imgPath": "img/places/#",
+            "imgLocation": "Sydney, Australia",
+            "description": " Famous for the Sydney Opera House, Sydney Harbour Bridge, and beautiful beaches like Bondi.",
+            "photographer": "name"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "imgPath": "img/places/#",
+            "imgLocation": "Istanbul, Turkey",
+            "description": " Known for its rich history and landmarks like Hagia Sophia, the Blue Mosque, and the Grand Bazaar.",
+            "photographer": "name"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "imgPath": "img/places/#",
+            "imgLocation": "Los Angeles, USA ",
+            "description": " Renowned for Hollywood, the Walk of Fame, and iconic beaches like Venice Beach and Santa Monica Pier.",
+            "photographer": "name"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
+            "imgPath": "img/places/#",
+            "imgLocation": "Bangkok, Thailand",
+            "description": "Known for vibrant street life, temples like Wat Arun and Wat Phra Kaew, and floating markets.",
+            "photographer": "name"
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
+            "imgPath": "img/places/#",
+            "imgLocation": "Rio de Janeiro, Brazil",
+            "description": " Famed for its Carnival festival, Christ the Redeemer statue, Sugarloaf Mountain, and Copacabana Beach.",
+            "photographer": "name"
         },
         {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
+            "imgPath": "img/places/#",
+            "imgLocation": "Cairo, Egypt",
+            "description": "Home to Red Square, the Kremlin, St. Basil's Cathedral, and a rich cultural history.",
+            "photographer": "name"
         },
         {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
-        }
+            "imgPath": "img/places/#",
+            "imgLocation": "Moscow, Russia",
+            "description": " Known for the Pyramids of Giza, the Sphinx, and the extensive history of ancient Egyptian civilization.",
+            "photographer": "name"
+        },
   ]
 }
