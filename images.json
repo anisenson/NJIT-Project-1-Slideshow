@@ -1,82 +1,82 @@
 {
     "images": [
         {
-            "imgPath": "img/places/new-york-city.jpg",
-            "imgLocation": "New York City, USA",
-            "description": "Famous for the Statue of Liberty, Central Park, Times Square, and the global financial center on Wall Street.",
-            "photographer": "Lukas Kloeppel"
+            "path": "img/places/new-york-city.jpg",
+            "title": "City of Skyscrapers",
+            "location": "New York City, USA",
+            "description": "Famous for the Statue of Liberty, Central Park, Times Square, and the global financial center on Wall Street."
         },
         {
-            "imgPath": "img/places/paris.jpg",
-            "imgLocation": "Paris, France",
-            "description": " Known for the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, and as a global center of art, fashion, and cuisine.",
-            "photographer": "Robert Stokoe"
+            "path": "img/places/paris.jpg",
+            "title": "The City of Lights",
+            "location": "Paris, France",
+            "description": "Known for the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, and as a global center of art, fashion, and cuisine."
         },
         {
-            "imgPath": "img/places/london.jpg",
-            "imgLocation": "London, UK",
-            "description": "Home to iconic sites like the Big Ben, Buckingham Palace, Tower of London, and the historic British Museum.",
-            "photographer": "Pixabay"
+            "path": "img/places/london.jpg",
+            "title": "The Capital of Empires",
+            "location": "London, UK",
+            "description": "Home to iconic sites like Big Ben, Buckingham Palace, Tower of London, and the historic British Museum."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Tokyo, Japan",
-            "description": "Famous for its blend of traditional and futuristic, including Tokyo Tower, Shibuya Crossing, and beautiful cherry blossoms in the spring.",
-            "photographer": "name"
+            "path": "img/places/tokyo.jpg",
+            "title": "The City of the Rising Sun",
+            "location": "Tokyo, Japan",
+            "description": "Famous for its blend of traditional and futuristic, including Tokyo Tower, Shibuya Crossing, and beautiful cherry blossoms in the spring."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Rome, Italy",
-            "description": " Known for the Colosseum, the Vatican, Trevi Fountain, and ancient ruins, Rome is a historical and cultural powerhouse.",
-            "photographer": "name"
+            "path": "img/places/rome.jpg",
+            "title": "The Eternal City",
+            "location": "Rome, Italy",
+            "description": "Known for the Colosseum, the Vatican, Trevi Fountain, and ancient ruins, Rome is a historical and cultural powerhouse."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Dubai, UAE",
-            "description": " Recognized for its modern architecture, luxury shopping, and attractions like the Burj Khalifa and the Palm Jumeirah.",
-            "photographer": "name"
+            "path": "img/places/dubai.jpg",
+            "title": "The City of Gold",
+            "location": "Dubai, UAE",
+            "description": "Recognized for its modern architecture, luxury shopping, and attractions like the Burj Khalifa and the Palm Jumeirah."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Sydney, Australia",
-            "description": " Famous for the Sydney Opera House, Sydney Harbour Bridge, and beautiful beaches like Bondi.",
-            "photographer": "name"
+            "path": "img/places/sydney.jpg",
+            "title": "The Harbour City",
+            "location": "Sydney, Australia",
+            "description": "Famous for the Sydney Opera House, Sydney Harbour Bridge, and beautiful beaches like Bondi."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Istanbul, Turkey",
-            "description": " Known for its rich history and landmarks like Hagia Sophia, the Blue Mosque, and the Grand Bazaar.",
-            "photographer": "name"
+            "path": "img/places/istanbul.jpg",
+            "title": "The Crossroads of East and West",
+            "location": "Istanbul, Turkey",
+            "description": "Known for its rich history and landmarks like Hagia Sophia, the Blue Mosque, and the Grand Bazaar."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Los Angeles, USA ",
-            "description": " Renowned for Hollywood, the Walk of Fame, and iconic beaches like Venice Beach and Santa Monica Pier.",
-            "photographer": "name"
+            "path": "img/places/los-angeles.jpg",
+            "title": "The Entertainment Capital",
+            "location": "Los Angeles, USA",
+            "description": "Renowned for Hollywood, the Walk of Fame, and iconic beaches like Venice Beach and Santa Monica Pier."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Bangkok, Thailand",
-            "description": "Known for vibrant street life, temples like Wat Arun and Wat Phra Kaew, and floating markets.",
-            "photographer": "name"
+            "path": "img/places/bangkok.PNG",
+            "title": "City of Angels",
+            "location": "Bangkok, Thailand",
+            "description": "Known for vibrant street life, temples like Wat Arun and Wat Phra Kaew, and floating markets."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Rio de Janeiro, Brazil",
-            "description": " Famed for its Carnival festival, Christ the Redeemer statue, Sugarloaf Mountain, and Copacabana Beach.",
-            "photographer": "name"
+            "path": "img/places/rio.jpg",
+            "title": "Marvelous City",
+            "location": "Rio de Janeiro, Brazil",
+            "description": "Famed for its Carnival festival, Christ the Redeemer statue, Sugarloaf Mountain, and Copacabana Beach."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Cairo, Egypt",
-            "description": "Home to Red Square, the Kremlin, St. Basil's Cathedral, and a rich cultural history.",
-            "photographer": "name"
+            "path": "img/places/cairo.jpg",
+            "title": "City of a Thousand Minarets",
+            "location": "Cairo, Egypt",
+            "description": "Home to the Pyramids of Giza, the Sphinx, and the extensive history of ancient Egyptian civilization."
         },
         {
-            "imgPath": "img/places/#",
-            "imgLocation": "Moscow, Russia",
-            "description": " Known for the Pyramids of Giza, the Sphinx, and the extensive history of ancient Egyptian civilization.",
-            "photographer": "name"
-        },
-  ]
+            "path": "img/places/moscow.jpg",
+            "title": "The Heart of Russia",
+            "location": "Moscow, Russia",
+            "description": "Known for Red Square, the Kremlin, St. Basil's Cathedral, and a rich cultural history."
+        }
+    ]
 }
