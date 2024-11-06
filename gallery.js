@@ -18,9 +18,12 @@ $(document).ready(() => {
     $('.details').slideToggle()
 
 })
+
   // Select the "Next Photo" button and add a click event to call showNextPhoto
+  $('#nextPhoto').on('click', showNextPhoto);
 
   // Select the "Previous Photo" button and add a click event to call showPrevPhoto
+  $('#prevPhoto').on('click', showPrevPhoto);
 
   // Call fetchJSON() to load the initial set of images
   fetchJSON()
