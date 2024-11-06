@@ -70,12 +70,14 @@ function showNextPhoto() {
 
   // Increment mCurrentIndex and call swapPhoto()
   mCurrentIndex++;
-  swapPhoto();
+  
 
   // Ensure it loops back to the beginning if mCurrentIndex exceeds array length
   if (mCurrentIndex == mImages.length){
     mCurrentIndex = 0; 
   }
+
+  swapPhoto();
 
 }
 
@@ -84,12 +86,13 @@ function showPrevPhoto() {
 
   // Decrement mCurrentIndex and call swapPhoto()
   mCurrentIndex--;
-  swapPhoto();
   
   // Ensure it loops to the end if mCurrentIndex is less than 0
   if (mCurrentIndex < 0) {
     mCurrentIndex = mImages.length - 1;  // Set to last image
   }
+  
+  swapPhoto();
 
 }
 
