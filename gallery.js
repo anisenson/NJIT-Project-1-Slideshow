@@ -9,9 +9,15 @@ $(document).ready(() => {
   // Call a function here to start the timer for the slideshow
 
   // Select the moreIndicator button and add a click event to:
+  $('.moreIndicator').on('click', function () {
+ 
   // - toggle the rotation classes (rot90 and rot270)
-  // - slideToggle the visibility of the .details section
+    $('.moreIndicator').toggleClass('rot270 rot90');
 
+  // - slideToggle the visibility of the .details section
+    $('.details').slideToggle()
+
+})
   // Select the "Next Photo" button and add a click event to call showNextPhoto
 
   // Select the "Previous Photo" button and add a click event to call showPrevPhoto
