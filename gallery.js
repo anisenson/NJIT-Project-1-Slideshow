@@ -12,8 +12,8 @@ $(document).ready(() => {
   // Select the moreIndicator button and add a click event to:
   $('.moreIndicator').on('click', function () {
  
-  // - toggle the rotation classes (rot90 and rot270)
-    $('.moreIndicator').toggleClass('rot270 rot90');
+  // - toggle the rotation classes (rot90)
+    $('.moreIndicator').toggleClass('rot90 ');
 
   // - slideToggle the visibility of the .details section
     $('.details').slideToggle()
