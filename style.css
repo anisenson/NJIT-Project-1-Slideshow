@@ -1,7 +1,7 @@
 body {
     overflow-x: hidden;
     font-family: 'Century Gothic', sans-serif;
-    background-color: white;
+    background-color: rgb(200, 224, 255);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
