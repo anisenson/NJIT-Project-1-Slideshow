@@ -96,7 +96,6 @@ function showPrevPhoto() {
 
 }
 
-
 let timer; 
 // Starter code for the timer function
 function startTimer() {
